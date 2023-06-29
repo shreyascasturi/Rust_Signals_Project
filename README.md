@@ -2,4 +2,6 @@
 Signal Processing Project to learn Rust with
 
 # Ideas
-None
+- Anomaly detection
+- Implementing DSP techniques (Filters, FFT, etc)
+- 
